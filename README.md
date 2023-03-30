@@ -115,4 +115,5 @@ Import each CSV file into its corresponding SQL table.
 Verify that each table has the correct data by running a SELECT statement for each.
 
 
+![subcat](https://user-images.githubusercontent.com/119547283/228713986-bf56fb06-dd07-4ed9-aa0f-20b41e9b099a.png)
 
