@@ -114,6 +114,13 @@ Import each CSV file into its corresponding SQL table.
 
 Verify that each table has the correct data by running a SELECT statement for each.
 
-
+# verification of tables
 ![subcat](https://user-images.githubusercontent.com/119547283/228713986-bf56fb06-dd07-4ed9-aa0f-20b41e9b099a.png)
+
+![cont](https://user-images.githubusercontent.com/119547283/228714112-abe31b19-6032-45ef-9624-605ded5c1975.png)
+
+![cat](https://user-images.githubusercontent.com/119547283/228714127-74d40c7d-89d7-40f5-90ed-bf7b9921b9d5.png)
+
+![camp](https://user-images.githubusercontent.com/119547283/228714148-23b63c44-ea8c-425f-b5dd-f184e9044460.png)
+
 
